@@ -49,15 +49,6 @@ img {
     margin: 50px;
 }
 
-#imag2 {
-    float: top-right;
-    width: 113px;
-    height: 200px;
-    position: absolute;
-    right: -9px;
-    top: 0px;
-}
-
 ul {
     list-style-type: none;
     grid-row-start: 2;
