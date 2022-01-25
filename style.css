@@ -39,7 +39,7 @@ h1 {
     transition: background-size 0.25s ease-in;        
 }
 
-#img {
+#imag {
     grid-row-start: 2;
     grid-column-start: 1;
     max-width: 200px;
