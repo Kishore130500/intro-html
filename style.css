@@ -58,6 +58,17 @@ h1 {
     top: 0px;
 }
 
+#dpl{
+  width: 350px;
+  margin-left: 230px;
+  margin-top: -494px;
+}
+#dpli{
+  width: 300px;
+  position: fixed;
+  margin-top: -227px;
+}
+
 ul {
     list-style-type: none;
     grid-row-start: 2;
