@@ -58,14 +58,11 @@ h1 {
     top: 0px;
 }
 
-#dpl{
-  width: 350px;
-  margin-left: 230px;
-  margin-top: -494px;
-}
 #dpli{
   width: 300px;
-  margin-top: -227px;
+  position: absolute;
+  right: 400px;
+  top: 93px;
 }
 
 
